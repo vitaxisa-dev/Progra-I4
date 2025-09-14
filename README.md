@@ -1,2 +1,1 @@
-[paginaweb.htm](https://github.com/user-attachments/files/22317731/paginaweb.htm)
-[Uploading index.html…]()
+file:///C:/Users/isavi/OneDrive/Desktop/paginatilin/index.html/paginaweb.htm
