@@ -1,10 +1,25 @@
-[paginaweb.htm](https://github.com/user-attachments/files/22348828/paginaweb.htm)
+[paginaweb.htm](https://github.com/user-attachments/files/22353038/paginaweb.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="paginaweb_archivos/filelist.xml">
+<link rel=Edit-Time-Data href="paginaweb_archivos/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>FLOR ISABEL VILLA TAPIA</o:Author>
   <o:Template>Normal</o:Template>
