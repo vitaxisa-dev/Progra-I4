@@ -1,4 +1,4 @@
-[index.htm](https://github.com/user-attachments/files/22353313/index.htm)
+[paginaweb.htm](https://github.com/user-attachments/files/22353480/paginaweb.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -10,8 +10,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="index_archivos/filelist.xml">
-<link rel=Edit-Time-Data href="index_archivos/editdata.mso">
+<link rel=File-List href="paginaweb_archivos/filelist.xml">
+<link rel=Edit-Time-Data href="paginaweb_archivos/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -24,24 +24,24 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>FLOR ISABEL VILLA TAPIA</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>FLOR ISABEL VILLA TAPIA</o:LastAuthor>
-  <o:Revision>1</o:Revision>
+  <o:Revision>2</o:Revision>
   <o:TotalTime>2</o:TotalTime>
-  <o:Created>2025-09-16T00:14:00Z</o:Created>
-  <o:LastSaved>2025-09-16T00:16:00Z</o:LastSaved>
+  <o:Created>2025-09-12T19:20:00Z</o:Created>
+  <o:LastSaved>2025-09-12T19:22:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>24</o:Words>
-  <o:Characters>132</o:Characters>
+  <o:Words>22</o:Words>
+  <o:Characters>124</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>155</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>145</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="index_archivos/themedata.thmx">
-<link rel=colorSchemeMapping href="index_archivos/colorschememapping.xml">
+<link rel=themeData href="paginaweb_archivos/themedata.thmx">
+<link rel=colorSchemeMapping href="paginaweb_archivos/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -673,18 +673,12 @@ w\:* {behavior:url(#default#VML);}
 	mso-font-pitch:variable;
 	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
-	{font-family:Aptos;
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
 	mso-font-charset:0;
 	mso-generic-font-family:swiss;
 	mso-font-pitch:variable;
-	mso-font-signature:536871559 3 0 0 415 0;}
-@font-face
-	{font-family:Gadugi;
-	panose-1:2 11 5 2 4 2 4 2 2 3;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-2147483645 33554432 12288 0 1 0;}
+	mso-font-signature:-469750017 -1040178053 9 0 511 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -697,12 +691,12 @@ w\:* {behavior:url(#default#VML);}
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Aptos;
+	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
@@ -724,16 +718,16 @@ h1
 	page-break-after:avoid;
 	mso-outline-level:1;
 	font-size:20.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	mso-font-kerning:1.0pt;
@@ -755,16 +749,16 @@ h2
 	page-break-after:avoid;
 	mso-outline-level:2;
 	font-size:16.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	mso-font-kerning:1.0pt;
@@ -786,16 +780,16 @@ h3
 	page-break-after:avoid;
 	mso-outline-level:3;
 	font-size:14.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	mso-font-kerning:1.0pt;
@@ -817,16 +811,16 @@ h4
 	page-break-after:avoid;
 	mso-outline-level:4;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	mso-font-kerning:1.0pt;
@@ -849,16 +843,16 @@ h5
 	page-break-after:avoid;
 	mso-outline-level:5;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	mso-font-kerning:1.0pt;
@@ -880,12 +874,12 @@ h6
 	page-break-after:avoid;
 	mso-outline-level:6;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -912,12 +906,12 @@ p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
 	page-break-after:avoid;
 	mso-outline-level:7;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -939,12 +933,12 @@ p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
 	page-break-after:avoid;
 	mso-outline-level:8;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -967,12 +961,12 @@ p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
 	page-break-after:avoid;
 	mso-outline-level:9;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -995,12 +989,12 @@ p.MsoTitle, li.MsoTitle, div.MsoTitle
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:28.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -1019,12 +1013,12 @@ p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:28.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -1043,12 +1037,12 @@ p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:28.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -1070,12 +1064,12 @@ p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
 	mso-add-space:auto;
 	mso-pagination:widow-orphan;
 	font-size:28.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -1096,12 +1090,12 @@ p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:14.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -1124,12 +1118,12 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Aptos;
+	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
@@ -1149,12 +1143,12 @@ p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphC
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Aptos;
+	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
@@ -1174,12 +1168,12 @@ p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagrap
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Aptos;
+	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
@@ -1199,12 +1193,12 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Aptos;
+	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
@@ -1225,12 +1219,12 @@ p.MsoQuote, li.MsoQuote, div.MsoQuote
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Aptos;
+	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
@@ -1255,25 +1249,25 @@ p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	border:none;
-	mso-border-top-alt:solid #0F4761 .5pt;
+	mso-border-top-alt:solid #2F5496 .5pt;
 	mso-border-top-themecolor:accent1;
 	mso-border-top-themeshade:191;
-	mso-border-bottom-alt:solid #0F4761 .5pt;
+	mso-border-bottom-alt:solid #2F5496 .5pt;
 	mso-border-bottom-themecolor:accent1;
 	mso-border-bottom-themeshade:191;
 	padding:0cm;
 	mso-padding-alt:10.0pt 0cm 10.0pt 0cm;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Aptos;
+	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	mso-font-kerning:1.0pt;
@@ -1284,7 +1278,7 @@ span.MsoIntenseEmphasis
 	{mso-style-priority:21;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	font-style:italic;}
@@ -1293,7 +1287,7 @@ span.MsoIntenseReference
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	font-variant:small-caps;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	letter-spacing:.25pt;
@@ -1306,16 +1300,16 @@ span.Ttulo1Car
 	mso-style-link:"T�tulo 1";
 	mso-ansi-font-size:20.0pt;
 	mso-bidi-font-size:20.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;}
 span.Ttulo2Car
@@ -1327,16 +1321,16 @@ span.Ttulo2Car
 	mso-style-link:"T�tulo 2";
 	mso-ansi-font-size:16.0pt;
 	mso-bidi-font-size:16.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;}
 span.Ttulo3Car
@@ -1353,7 +1347,7 @@ span.Ttulo3Car
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;}
 span.Ttulo4Car
@@ -1368,7 +1362,7 @@ span.Ttulo4Car
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	font-style:italic;}
@@ -1384,7 +1378,7 @@ span.Ttulo5Car
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;}
 span.Ttulo6Car
@@ -1457,12 +1451,12 @@ span.TtuloCar
 	mso-style-link:T�tulo;
 	mso-ansi-font-size:28.0pt;
 	mso-bidi-font-size:28.0pt;
-	font-family:"Aptos Display",sans-serif;
-	mso-ascii-font-family:"Aptos Display";
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
 	mso-ascii-theme-font:major-latin;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-font-family:"Calibri Light";
 	mso-hansi-theme-font:major-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -1501,19 +1495,22 @@ span.CitadestacadaCar
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Cita destacada";
-	color:#0F4761;
+	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
 	font-style:italic;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Aptos;
+	mso-fareast-font-family:Calibri;
 	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
@@ -1550,11 +1547,13 @@ div.WordSection1
 	line-height:115%;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;
-	mso-ascii-font-family:Aptos;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Aptos;
+	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
@@ -1572,9 +1571,13 @@ div.WordSection1
 <div class=WordSection1>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
- coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
- filled="f" stroked="f">
+style='font-size:16.0pt;line-height:115%'>Universidad <span class=SpellE>autnoma</span>
+del estado de <span class=SpellE>Mexico</span><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:16.0pt;line-height:115%;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
  <v:formulas>
   <v:f eqn="if lineDrawn pixelLineWidth 0"/>
@@ -1592,34 +1595,26 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Imagen_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
- alt="Anuncia UAEMex segunda ronda de preinscripciones, para julio" style='width:442.2pt;
- height:219pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="index_archivos/image001.png" o:title="Anuncia UAEMex segunda ronda de preinscripciones, para julio"/>
-</v:shape><![endif]--><![if !vml]><img width=590 height=292
-src="index_archivos/image002.png"
-alt="Anuncia UAEMex segunda ronda de preinscripciones, para julio" v:shapes="Imagen_x0020_2"><![endif]></span><o:p></o:p></p>
+</v:shapetype><v:shape id="Imagen_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
+ alt="Escudo de la UAEMEX: qu� es, historia y significado" style='width:290.4pt;
+ height:267pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="paginaweb_archivos/image001.jpg" o:title=" qu� es, historia y significado"/>
+</v:shape><![endif]--><![if !vml]><img width=387 height=356
+src="paginaweb_archivos/image002.jpg"
+alt="Escudo de la UAEMEX: qu� es, historia y significado" v:shapes="Imagen_x0020_1"><![endif]></span><span
+style='font-size:16.0pt;line-height:115%'><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:115%;font-family:"Gadugi",sans-serif'>UNIVERSIDAD
-AU�NOMA DEL ESTADO DE M�XICO<o:p></o:p></span></p>
+style='font-size:16.0pt;line-height:115%;color:#7030A0'>Alumno: Flor Isabel Villa
+Tapia<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:115%;font-family:"Gadugi",sans-serif'>FACAULTAD
-DE CONTADUR�A Y ADMINISTRACI�N<o:p></o:p></span></p>
+style='font-size:16.0pt;line-height:115%;color:#7030A0'>Facultad de <span
+class=SpellE>Contaduria</span> y <span class=SpellE>Adminitracion</span><o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:115%;font-family:"Gadugi",sans-serif'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:115%;font-family:"Gadugi",sans-serif'>PRESENTA:
-FLOR ISABEL VILLA TAPIA<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:115%;font-family:"Gadugi",sans-serif'>ASIGNATURA:
-PROGRAMACI�N IMPERATIVA<o:p></o:p></span></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+style='font-size:16.0pt;line-height:115%;color:#7030A0'>Materia: <span
+class=SpellE>Programacion</span> <span class=SpellE>iperativa</span><o:p></o:p></span></p>
 
 </div>
 
